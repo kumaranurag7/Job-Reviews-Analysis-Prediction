@@ -3,4 +3,4 @@ Data imported from a website that provides job reviews. The website wants to ana
 
 Evaluation metric: Accuracy, F1-score.
 
-Main Topics Covered: Data Cleaning and Visualisaton, Missing value Imputation, Feature Engineering, Over-sampling, Model Building, hyper-parameter tuning, Multi-class Classification. Models used: Logistic Regression, RandomForest Classifier, XGBClassifier.
+Main Topics Covered : Data Cleaning and Visualisaton, Missing value Imputation, Feature Engineering, Over-sampling, Model Building, hyper-parameter tuning, Multi-class Classification. Models used: Logistic Regression, RandomForest Classifier, XGBClassifier.
